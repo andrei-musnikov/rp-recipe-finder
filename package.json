@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "packages/**"
+        ]
+    },
+    "scripts": {
+        "server": "yarn workspace server start",
+        "client": "yarn workspace client dev"
+    },
+    "name": "rp-boilerplate",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Andrei Mušnikov",
+    "license": "MIT",
+    "description": "Boilerplate for React Projects"
+}

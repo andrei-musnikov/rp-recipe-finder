@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+# IDE and mac files
+.vscode
+.DS_Store
+
+# Dump
+.babelrc
