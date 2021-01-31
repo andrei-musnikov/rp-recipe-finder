@@ -1,3 +1,3 @@
 ## Description
 
-Boilerplate for react projects with monorepo
+Recipe finder app

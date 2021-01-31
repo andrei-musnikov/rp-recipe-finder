@@ -2,7 +2,7 @@
     "name": "client",
     "version": "1.0.0",
     "scripts": {
-        "dev": "npx webpack serve --mode development",
+        "start": "npx webpack serve --mode development",
         "build": "npx webpack --mode development",
         "test": "mocha \"src/**/*.test.js\" --require @babel/register --recursive"
     },
